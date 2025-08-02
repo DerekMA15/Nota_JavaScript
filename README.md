@@ -5,7 +5,7 @@
 Este repositório contém anotações e roteiro de estudos para desenvolvedores back-end que desejam dominar JavaScript, Node.js e migrar para TypeScript.
 
 ## :D JavaScript Essencial :
-- [ ] Fundamentos da linguagem
+- Fundamentos da linguagem
 
 
 
