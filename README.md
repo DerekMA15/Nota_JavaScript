@@ -26,11 +26,13 @@ Este repositório contém anotações e roteiro de estudos para desenvolvedor ba
 - [ ] Node.js + TypeScript
 - [ ] Padrões avançados (DTOs, Decorators)
 
+## SEÇÕES:
+[[Link para seção](https://github.com/DerekMA15/JS_Notas/blob/main/Fundamentos.md)](Fundamentos Javascript)
 
 ## LINKS: 
-[[Link para seção](https://github.com/DerekMA15/JS_Notas/blob/main/Fundamentos.md)](#Fundamentos_Javascript)
-
 Conselhos para Estudantes Perdidos de Programação | Dicas e um caminho para você seguir: (https://www.youtube.com/watch?v=REW7MVDn0T4)
+JavaScript Tutorial Full Course - Beginner to Pro:
+(https://www.youtube.com/watch?v=XJC5WB2Bwrc)
 
 <details>
 <summary>
