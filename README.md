@@ -4,10 +4,35 @@
 
 Este repositório contém anotações e roteiro de estudos para desenvolvedores back-end que desejam dominar JavaScript, Node.js e migrar para TypeScript.
 
-## :D JavaScript Essencial :
-- Fundamentos da linguagem
+### Fase 1: JavaScript Essencial 
+- [ ] Fundamentos da linguagem
+- [ ] ES6+ (arrow functions, destructuring, modules)
+- [ ] Assincronicidade (callbacks, promises, async/await)
 
+### Fase 2: Node.js Básico 
+- [ ] Core modules (fs, http, path)
+- [ ] NPM e gerenciamento de pacotes
+- [ ] Express.js (rotas, middlewares)
 
+### Fase 3: Back-end Avançado 
+- [ ] Bancos de dados (SQL/NoSQL)
+- [ ] Autenticação (JWT, OAuth)
+- [ ] Boas práticas (MVC, logging, testes)
+
+### Fase 4: TypeScript (3-5 semanas)
+- [ ] Tipos básicos e interfaces
+- [ ] Node.js + TypeScript
+- [ ] Padrões avançados (DTOs, Decorators)
+
+<details> 
+  <summary>📌 Conceitos Chave de JavaScript</summary>
+Event Loop: Modelo de concorrência
+
+Prototype: Herança prototípica
+
+Closures: Escopo léxico de funções
+
+</details>
 
 
 
