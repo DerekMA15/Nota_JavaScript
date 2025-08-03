@@ -226,4 +226,4 @@ Dicas para um README eficaz:
 4. **Checklists**: Permitem acompanhar progresso
 5. **Links úteis**: Documentação oficial e recursos recomendados
 6. **Destaques**: Emojis e formatação para ênfase (não exagere)
-<details>
+</details>
