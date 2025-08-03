@@ -1,4 +1,5 @@
-# ╰(*°▽°*)╯ Fundamentos 
+# Fundamentos JavaScript╰(*°▽°*)╯
+
 ### 1. Tipos de Dados Primários
 ```javascript
 // Primitivos
@@ -166,3 +167,14 @@ function checkAccess(age) {
   return age >= 18
 }
 ```
+
+### 🚀 Próximos Passos nos Fundamentos
+
+- Entender typeof e verificação de tipos
+
+- Aprender sobre truthy/falsy values
+
+- Dominar métodos de array (find, some, every)
+
+- Praticar desestruturação de objetos/arrays
+
