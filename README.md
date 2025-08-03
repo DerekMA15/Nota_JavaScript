@@ -28,11 +28,10 @@ Este repositório contém anotações e roteiro de estudos para desenvolvedores 
 - [ ] Padrões avançados (DTOs, Decorators)
 
 </details>
-## :D Fundamentos JavaScript 
 <details>
   
 <summary>  
-Logo Aqui!
+  <strong> :D Fundamentos JavaScript </strong> 
 </summary>
   
 ### 1. Tipos de Dados Primários
@@ -219,7 +218,7 @@ function checkAccess(age) {
 
 <details>
 <summary>
-### Dicas para um README eficaz:
+Dicas para um README eficaz:
 </summary>
 1. **Hierarquia clara**: Use headers (`##`, `###`) para organizar seções
 2. **Elementos visuais**: Tabelas, lists e diff blocks facilitam a leitura
