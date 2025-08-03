@@ -31,7 +31,6 @@ Este repositório contém anotações e roteiro de estudos para desenvolvedor ba
 
 ## LINKS: 
 - Conselhos para Estudantes Perdidos de Programação | Dicas e um caminho para você seguir:(https://www.youtube.com/watch?v=REW7MVDn0T4)
-- 
 - JavaScript Tutorial Full Course - Beginner to Pro: (https://www.youtube.com/watch?v=XJC5WB2Bwrc)
 
 <details>
