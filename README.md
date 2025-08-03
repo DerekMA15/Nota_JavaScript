@@ -28,11 +28,11 @@ Este repositório contém anotações e roteiro de estudos para desenvolvedores 
 - [ ] Padrões avançados (DTOs, Decorators)
 
 </details>
-
+## :D Fundamentos JavaScript 
 <details>
   
 <summary>  
-## :D Fundamentos JavaScript 
+Logo Aqui!
 </summary>
   
 ### 1. Tipos de Dados Primários
