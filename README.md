@@ -4,8 +4,8 @@
 
 Este repositório contém anotações e roteiro de estudos para desenvolvedores back-end que desejam dominar JavaScript, Node.js e migrar para TypeScript.
 
-<details> 
-##<summary> ✅ CheckList </summary>
+##<details> 
+<summary> ✅ CheckList </summary>
   
 ### Fase 1: JavaScript Essencial 
 - [X] Fundamentos da linguagem
