@@ -4,8 +4,11 @@
 
 Este repositório contém anotações e roteiro de estudos para desenvolvedores back-end que desejam dominar JavaScript, Node.js e migrar para TypeScript.
 
+<details> 
+<summary> ## :D CheckList </summary>
+  
 ### Fase 1: JavaScript Essencial 
-- [ ] Fundamentos da linguagem
+- [X] Fundamentos da linguagem
 - [ ] ES6+ (arrow functions, destructuring, modules)
 - [ ] Assincronicidade (callbacks, promises, async/await)
 
@@ -23,14 +26,6 @@ Este repositório contém anotações e roteiro de estudos para desenvolvedores 
 - [ ] Tipos básicos e interfaces
 - [ ] Node.js + TypeScript
 - [ ] Padrões avançados (DTOs, Decorators)
-
-<details> 
-  <summary>📌 Conceitos Chave de JavaScript</summary>
-Event Loop: Modelo de concorrência
-
-Prototype: Herança prototípica
-
-Closures: Escopo léxico de funções
 
 </details>
 
