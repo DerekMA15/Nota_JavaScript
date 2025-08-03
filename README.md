@@ -29,7 +29,12 @@ Este repositório contém anotações e roteiro de estudos para desenvolvedores 
 
 </details>
 
+<details>
+  
+<summary>  
 ## :D Fundamentos JavaScript 
+</summary>
+  
 ### 1. Tipos de Dados Primários
 ```javascript
 // Primitivos
@@ -207,16 +212,19 @@ function checkAccess(age) {
 - Dominar métodos de array (find, some, every)
 
 - Praticar desestruturação de objetos/arrays
-<details> 
+
+</details> 
+</details>
 
 
-
-
+<details>
+<summary>
 ### Dicas para um README eficaz:
-
+</summary>
 1. **Hierarquia clara**: Use headers (`##`, `###`) para organizar seções
 2. **Elementos visuais**: Tabelas, lists e diff blocks facilitam a leitura
 3. **Seções recolhíveis**: `<details>` para anotações técnicas detalhadas
 4. **Checklists**: Permitem acompanhar progresso
 5. **Links úteis**: Documentação oficial e recursos recomendados
 6. **Destaques**: Emojis e formatação para ênfase (não exagere)
+<details>
