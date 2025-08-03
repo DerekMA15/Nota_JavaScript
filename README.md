@@ -2,7 +2,7 @@
 
 ## 📌 Visão Geral
 
-Este repositório contém anotações e roteiro de estudos para desenvolvedores back-end que desejam dominar JavaScript, Node.js e migrar para TypeScript.
+Este repositório contém anotações e roteiro de estudos para desenvolvedor back-end que deseja dominar JavaScript, Node.js e migrar para TypeScript.
 
 <details> 
 <summary> ✅ CheckList </summary>
