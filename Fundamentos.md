@@ -178,3 +178,5 @@ function checkAccess(age) {
 
 - Praticar desestruturação de objetos/arrays
 
+### Créditos:
+- Deepsseeek 
