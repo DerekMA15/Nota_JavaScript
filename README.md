@@ -8,6 +8,7 @@ Este repositório contém anotações e roteiro de estudos para desenvolvedor ba
   
 ### Fase 1: JavaScript Essencial 
 - [X] Fundamentos da linguagem
+- [ ] Arquitetura Cliente-Servidor para Web
 - [ ] ES6+ (arrow functions, destructuring, modules)
 - [ ] Assincronicidade (callbacks, promises, async/await)
 
