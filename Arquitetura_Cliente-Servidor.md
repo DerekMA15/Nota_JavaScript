@@ -9,6 +9,7 @@ Modelo onde:
 
 ## Protocolo HTTP/HTTPS
 ### O que é?
+- HTTP é um protocolo que define como as mensagens devem ser enviadas pelo cliente e pelo servidor em uma Rede IP.
 - **HTTP** (*HyperText Transfer Protocol*): Protocolo para transferência de dados na web.
 - **HTTPS** (*HTTP Secure*): Versão criptografada (usando SSL/TLS).
 
