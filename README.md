@@ -8,7 +8,7 @@ Este repositório contém anotações e roteiro de estudos para desenvolvedor ba
   
 ### Fase 1: JavaScript Essencial 
 - [X] Fundamentos da linguagem
-- [ ] Arquitetura Cliente-Servidor para Web
+- [X] Arquitetura Cliente-Servidor para Web
 - [ ] ES6+ (arrow functions, destructuring, modules)
 - [ ] Assincronicidade (callbacks, promises, async/await)
 
@@ -29,7 +29,7 @@ Este repositório contém anotações e roteiro de estudos para desenvolvedor ba
 
 ## SEÇÕES:
 [[Link para seção](https://github.com/DerekMA15/JS_Notas/blob/main/Fundamentos.md)](Fundamentos Javascript)
-[[Link para seção]()](Arquitetura Cliente-Servidor)
+[[Link para seção](https://github.com/DerekMA15/Nota_JavaScript/blob/main/Fundamentos.md)](Arquitetura Cliente-Servidor)
 [[Link para seção](https://github.com/DerekMA15/Nota_JavaScript/blob/main/HTML_b%C3%A1sico.md)](HTML Básico) 
 
 ## LINKS: 
