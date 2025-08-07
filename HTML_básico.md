@@ -1,4 +1,4 @@
-# Principais Tags do HTML
+# Principais Tags do HTML ( ´･･)ﾉ(._.`)
 
 HTML (HyperText Markup Language) é a linguagem de marcação padrão usada para criar páginas da web. Abaixo estão algumas das principais tags do HTML e suas funções:
 
