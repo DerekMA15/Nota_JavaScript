@@ -74,6 +74,9 @@ Quebra de linha.
 ## 20. `<hr>`
 Linha horizontal para separação de conteúdo.
 
+## 21. `<!-- comentario --> `
+Tag para deixar comentarios no código 
+
 ---
 
 Essas são algumas das principais tags usadas em HTML para estruturar e organizar o conteúdo de páginas web.
