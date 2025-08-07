@@ -78,3 +78,5 @@ Linha horizontal para separação de conteúdo.
 
 Essas são algumas das principais tags usadas em HTML para estruturar e organizar o conteúdo de páginas web.
 
+## LINKS DE APOIO: 
+- [[Introdução ao HTML MDN]([https://www.youtube.com/watch?v=REW7MVDn0T4](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Structuring_content))]
