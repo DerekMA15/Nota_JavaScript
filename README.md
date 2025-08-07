@@ -29,7 +29,6 @@ Este repositório contém anotações e roteiro de estudos para desenvolvedor ba
 
 ## SEÇÕES:
 - [[Link para seção](https://github.com/DerekMA15/JS_Notas/blob/main/Fundamentos.md)](Fundamentos Javascript)
-
 - [[Link para seção](https://github.com/DerekMA15/Nota_JavaScript/blob/main/Fundamentos.md)](Arquitetura Cliente-Servidor)
 - [[Link para seção](https://github.com/DerekMA15/Nota_JavaScript/blob/main/HTML_b%C3%A1sico.md)](HTML Básico) 
 
