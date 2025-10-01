@@ -79,6 +79,12 @@ for (const fruta of frutas) {
   console.log(fruta)
 }
 
+// for...in (arrays)
+const frutas = ["maçã", "banana"]
+for (const fruta in frutas) {
+  console.log(fruta) // retorna os indices 
+}
+
 // while
 let i = 0
 while (i < 3) {
