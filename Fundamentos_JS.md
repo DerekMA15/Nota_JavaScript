@@ -141,7 +141,18 @@ const { nome, ...resto } = pessoa
 // Spread operator
 const novaPessoa = { ...pessoa, idade: 26 }
 ```
-### 9.Extra 
+### 9.Rest Operator (...)
+
+```javascript
+const colors = ['red', 'green', 'blue', 'yellow', 'purple'];
+const [firstColor, secondColor, ...remainingColors] = colors;
+
+console.log(firstColor); // Output: 'red'
+console.log(secondColor); // Output: 'green'
+console.log(remainingColors); // Output: ['blue', 'yellow', 'purple']
+```
+
+### 10.Extra 
 📌 Boas Práticas Iniciais
 - Nomenclatura: Use camelCase e nomes descritivos
 
