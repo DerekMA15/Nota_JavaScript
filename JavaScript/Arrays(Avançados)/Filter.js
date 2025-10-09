@@ -46,7 +46,7 @@ const filtro4 = numrs.filter((valor, indice) => {
 // Exemplo 2, um array com objetos dentro onde cada objeto representa um indice do array
 const pessoas = [
 {nome: 'Derek', idade: 21 },
-{nome: 'Raissa', id0ade: 47 },
+{nome: 'Raissa', idade: 47 },
 {nome: 'Isabelly', idade:62 },
 {nome: 'Vitor', idade: 62 },
 {nome: 'Lucas', idade: 18 },
@@ -83,4 +83,5 @@ console.log(filtroIdadeAcimaDe30); /* out: [
                                             ]
 */
 
-const fitroPessoasQueTerminaComA = pessoas.filter(pessoas => pessoas.idade.toLowerCase().endWitch('a')); 
+const filtroPessoasQueTerminaComA = pessoas.filter(pessoas => pessoas.nome.toLowerCase().endsWith('a')); 
+console.log(filtroPessoasQueTerminaComA); // out: [ { nome: 'Raissa', idade: 47 } ]
