@@ -38,8 +38,48 @@ function Persona(nome, sobrenome){
   //this.nomeCompleto = () => `${this.nome} ${this.sobrenome}`;
 };
 
-Persona.prototype.this.nomeCompleto = function(){return `${this.nome} ${this.sobrenome}`};
+//Persona.prototype.this.nomeCompleto = function(){return `${this.nome} ${this.sobrenome}`};
 
 const persona1 = new Persona('Maria', 'Aparecida');
 const persona2 = new Persona('Lucas', 'Camargo');
 
+// Manipulando Prototypes
+
+// New Object -> Objec.prototype - Quando criamos um objeto, automaticamente isso acontece
+const objA = {
+  chaveA: 'A'
+  // __proto__: Object.prototype
+
+};
+
+// agora se eu quiser criar um ojeto que tenha o __proto__ do objeto pai(objA)
+const objB = {
+  chaveB: 'B'
+  // __proto__: objA
+};
+// apenas fazer isso aqui :
+Object.setPrototypeOf(objB,objA)
+console.log(objB.chaveA); // out: A
+
+const objC = new Object(); 
+objC.chaveC = 'C';
+
+Object.setPrototypeOf(objC,objB)
+console.log(objC.chaveA); //out: A
+console.log(objC.chaveB); //out: B
+console.log(objC.chaveC); //out: C
+
+//---------------------------------------------------------------------------------------------------------------------
+
+function Produto(nome, preco){
+  this.nome = nome;
+  this.preco = preco;
+};
+// forma perfomatica e melhor controle dos métodos
+Produto.prototype.desconto = function(desconto){
+  this.preco = this.preco - (this.preco *(desconto/100))
+}
+
+const p1 = new Produto('camisa', 50); 
+p1.desconto(100)
+console.log(p1)
