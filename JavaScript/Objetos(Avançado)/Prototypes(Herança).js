@@ -82,4 +82,4 @@ Produto.prototype.desconto = function(desconto){
 
 const p1 = new Produto('camisa', 50); 
 p1.desconto(100)
-console.log(p1)
+console.log(p1) // out: Produto { nome: 'camisa', preco: 0 }
